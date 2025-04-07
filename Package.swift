@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "MoneyTextKit",
     platforms: [
-        .iOS(.14)
+        .iOS(.v14)
     ],
     products: [
         .library(
